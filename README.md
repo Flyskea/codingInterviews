@@ -1,3 +1,4 @@
 # codingInterviews
-剑指offer专项突破版 in golang
+用go语言完成剑指offer专项突破版
 codingInterviews written in golang
+并查集代码全部使用路径压缩以及按大小求并，使用负数表示大小避免使用额外数组
